@@ -1,7 +1,7 @@
 # VC707 BIST Flow
 + This article mainly explains how to conduct official peripheral function tests on the VC707
 
-**Last update: 2024/05/03**
+**Last update: 2024/05/18**
 
 + Vivado Version: 2021.1
 
